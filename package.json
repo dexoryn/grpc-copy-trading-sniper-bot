@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "hexnome",
-  "url": "https://github.com/hexnome/grpc-copy-trading-sniper-bot.git",
+  "author": "dexoryn",
+  "url": "",
   "license": "ISC",
   "dependencies": {
     "@bloxroute/solana-trader-client-ts": "^2.1.6",
